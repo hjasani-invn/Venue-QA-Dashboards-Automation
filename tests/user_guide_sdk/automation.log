@@ -1,0 +1,197 @@
+10/18/2022 02:35:22 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:35:22 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:35:22 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:35:22 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:35:22 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:35:22 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:35:22 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:35:22 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:35:23 PM - GuidesPage - INFO: Element Found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 02:35:23 PM - GuidesPage - INFO: Clicked on element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 02:35:25 PM - GuidesPage - INFO: Elements Found with locator: //button[@class="btn btn-primary btn-sm btn-icon"] and locatorType: xpath
+10/18/2022 02:37:35 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:37:35 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:37:35 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:37:35 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:37:35 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:37:35 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:37:35 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:37:35 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:37:36 PM - GuidesPage - INFO: Element Found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 02:37:36 PM - GuidesPage - INFO: Clicked on element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 02:37:38 PM - GuidesPage - INFO: Element Found with locator: //button[@class="btn btn-primary btn-sm btn-icon"] and locatorType: xpath
+10/18/2022 02:37:38 PM - GuidesPage - INFO: Clicked on element with locator: //button[@class="btn btn-primary btn-sm btn-icon"] locatorType: xpath
+10/18/2022 02:49:45 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:49:45 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:49:45 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:49:45 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:49:45 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:49:45 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:49:45 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:49:45 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:49:46 PM - GuidesPage - INFO: Element Found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 02:49:46 PM - GuidesPage - INFO: Clicked on element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 02:49:48 PM - GuidesPage - INFO: Element Found with locator: //button[@class="btn btn-primary btn-sm btn-icon"] and locatorType: xpath
+10/18/2022 02:49:48 PM - GuidesPage - INFO: Clicked on element with locator: //button[@class="btn btn-primary btn-sm btn-icon"] locatorType: xpath
+10/18/2022 02:50:15 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:50:15 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:50:15 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:50:15 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:50:15 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:50:15 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:50:15 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:50:15 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:53:42 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:53:42 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:53:42 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:53:42 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:53:42 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:53:42 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:53:42 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:53:42 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:55:07 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:55:07 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:55:07 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:55:07 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:55:07 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:55:07 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:55:07 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:55:07 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:55:12 PM - GuidesPage - INFO: Element not found with locator: //div[@class="file-container ng-star-inserted"] and locatorType: xpath
+10/18/2022 02:55:13 PM - GuidesPage - INFO: double Clicked on element with locator: //div[@class="file-container ng-star-inserted"] locatorType: xpath
+10/18/2022 02:55:49 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:55:49 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:55:49 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:55:49 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:55:49 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:55:49 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:55:49 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:55:49 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:55:49 PM - GuidesPage - INFO: Element Found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 02:55:50 PM - GuidesPage - INFO: Clicked on element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 02:55:55 PM - GuidesPage - INFO: Element not found with locator: //div[@class="file-container ng-star-inserted"] and locatorType: xpath
+10/18/2022 02:55:55 PM - GuidesPage - INFO: double Clicked on element with locator: //div[@class="file-container ng-star-inserted"] locatorType: xpath
+10/18/2022 02:57:22 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:57:22 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:57:22 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/18/2022 02:57:22 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/18/2022 02:57:23 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/18/2022 02:57:23 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/18/2022 02:57:23 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/18/2022 02:57:23 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/18/2022 02:57:23 PM - GuidesPage - INFO: Element Found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 02:57:23 PM - GuidesPage - INFO: Clicked on element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 02:57:23 PM - GuidesPage - INFO: Element Found with locator: //button[@class='btn btn-sm btn-primary view-control'] and locatorType: xpath
+10/18/2022 02:57:23 PM - GuidesPage - INFO: Clicked on element with locator: //button[@class='btn btn-sm btn-primary view-control'] locatorType: xpath
+10/18/2022 02:57:25 PM - GuidesPage - INFO: Element Found with locator: //div[@class="file-container ng-star-inserted"] and locatorType: xpath
+10/18/2022 02:57:26 PM - GuidesPage - INFO: double Clicked on element with locator: //div[@class="file-container ng-star-inserted"] locatorType: xpath
+10/18/2022 03:09:04 PM - GuidesPage - INFO: Element not found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 03:09:04 PM - GuidesPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 03:09:11 PM - GuidesPage - INFO: Element not found with locator: //button[@class="btn btn-primary btn-sm btn-icon"] and locatorType: xpath
+10/18/2022 03:09:11 PM - GuidesPage - INFO: Cannot click on the element with locator: //button[@class="btn btn-primary btn-sm btn-icon"] locatorType: xpath
+10/18/2022 03:09:20 PM - GuidesPage - INFO: Element not found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 03:09:20 PM - GuidesPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 03:09:25 PM - GuidesPage - INFO: Element not found with locator: //button[@class='btn btn-sm btn-primary view-control'] and locatorType: xpath
+10/18/2022 03:09:25 PM - GuidesPage - INFO: Cannot click on the element with locator: //button[@class='btn btn-sm btn-primary view-control'] locatorType: xpath
+10/18/2022 03:09:32 PM - GuidesPage - INFO: Element not found with locator: //div[@class="file-container ng-star-inserted"] and locatorType: xpath
+10/18/2022 03:09:32 PM - GuidesPage - INFO: double Clicked on element with locator: //div[@class="file-container ng-star-inserted"] locatorType: xpath
+10/18/2022 03:09:54 PM - GuidesPage - INFO: Element not found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 03:09:54 PM - GuidesPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 03:10:01 PM - GuidesPage - INFO: Element not found with locator: //button[@class="btn btn-primary btn-sm btn-icon"] and locatorType: xpath
+10/18/2022 03:10:01 PM - GuidesPage - INFO: Cannot click on the element with locator: //button[@class="btn btn-primary btn-sm btn-icon"] locatorType: xpath
+10/18/2022 03:10:10 PM - GuidesPage - INFO: Element not found with locator: //span[normalize-space()='Guides'] and locatorType: xpath
+10/18/2022 03:10:10 PM - GuidesPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Guides'] locatorType: xpath
+10/18/2022 03:10:15 PM - GuidesPage - INFO: Element not found with locator: //button[@class='btn btn-sm btn-primary view-control'] and locatorType: xpath
+10/18/2022 03:10:15 PM - GuidesPage - INFO: Cannot click on the element with locator: //button[@class='btn btn-sm btn-primary view-control'] locatorType: xpath
+10/18/2022 03:10:22 PM - GuidesPage - INFO: Element not found with locator: //div[@class="file-container ng-star-inserted"] and locatorType: xpath
+10/18/2022 03:10:22 PM - GuidesPage - INFO: double Clicked on element with locator: //div[@class="file-container ng-star-inserted"] locatorType: xpath
+10/20/2022 01:40:04 PM - LoginPage - INFO: Element not found with locator: //div[@class='avatar-container'] and locatorType: xpath
+10/20/2022 01:40:04 PM - LoginPage - INFO: Cannot click on the element with locator: //div[@class='avatar-container'] locatorType: xpath
+10/20/2022 01:40:09 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(), 'Log out')] and locatorType: xpath
+10/20/2022 01:40:09 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(), 'Log out')] locatorType: xpath
+10/20/2022 01:40:09 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/20/2022 01:40:09 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/20/2022 01:40:09 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/20/2022 01:40:09 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/20/2022 01:40:09 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/20/2022 01:40:10 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/20/2022 01:40:10 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/20/2022 01:40:10 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/20/2022 01:40:10 PM - UserPage - INFO: Element Found with locator: //button[@routerlink='/home/users/create'] and locatorType: xpath
+10/20/2022 01:40:10 PM - UserPage - INFO: Clicked on element with locator: //button[@routerlink='/home/users/create'] locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Element Found with locator: //input[@placeholder='User Id'] and locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder='User Id'] locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="First Name"] and locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="First Name"] locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="Last Name"] and locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="Last Name"] locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="Password"] and locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="Password"] locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="Email"] and locatorType: xpath
+10/20/2022 01:40:12 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="Email"] locatorType: xpath
+10/20/2022 01:40:17 PM - UserPage - INFO: Element not found with locator: //span[@class='mat-option-text' and contains(text(), 'test')] and locatorType: xpath
+10/20/2022 01:40:17 PM - UserPage - INFO: Cannot click on the element with locator: //span[@class='mat-option-text' and contains(text(), 'test')] locatorType: xpath
+10/20/2022 01:40:17 PM - UserPage - INFO: Element Found with locator: //ns-filter-select[@label='Groups'] and locatorType: xpath
+10/20/2022 01:40:18 PM - UserPage - INFO: Clicked on element with locator: //ns-filter-select[@label='Groups'] locatorType: xpath
+10/20/2022 01:40:18 PM - UserPage - INFO: Element Found with locator: //span[@class="mat-option-text" and contains(text(), "Automation_Test_Group")] and locatorType: xpath
+10/20/2022 01:40:18 PM - UserPage - INFO: Clicked on element with locator: //span[@class="mat-option-text" and contains(text(), "Automation_Test_Group")] locatorType: xpath
+10/20/2022 01:40:20 PM - UserPage - INFO: Element Found with locator: //body and locatorType: xpath
+10/20/2022 01:40:20 PM - UserPage - INFO: Clicked on element with locator: //body locatorType: xpath
+10/20/2022 01:40:22 PM - UserPage - INFO: Element Found with locator: //button[normalize-space()='Create Users'] and locatorType: xpath
+10/20/2022 01:40:22 PM - UserPage - INFO: Clicked on element with locator: //button[normalize-space()='Create Users'] locatorType: xpath
+10/20/2022 01:40:24 PM - UserPage - INFO: Element Found with locator: //span[normalize-space()='Users'] and locatorType: xpath
+10/20/2022 01:40:24 PM - UserPage - INFO: Clicked on element with locator: //span[normalize-space()='Users'] locatorType: xpath
+10/20/2022 01:40:24 PM - UserPage - INFO: Element Found with locator: //button[@routerlink='/home/users/create'] and locatorType: xpath
+10/20/2022 01:40:24 PM - UserPage - INFO: Clicked on element with locator: //button[@routerlink='/home/users/create'] locatorType: xpath
+10/20/2022 01:42:00 PM - LoginPage - INFO: Element not found with locator: //div[@class='avatar-container'] and locatorType: xpath
+10/20/2022 01:42:00 PM - LoginPage - INFO: Cannot click on the element with locator: //div[@class='avatar-container'] locatorType: xpath
+10/20/2022 01:42:05 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(), 'Log out')] and locatorType: xpath
+10/20/2022 01:42:05 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(), 'Log out')] locatorType: xpath
+10/20/2022 01:42:05 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/20/2022 01:42:05 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/20/2022 01:42:05 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/20/2022 01:42:05 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/20/2022 01:42:05 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/20/2022 01:42:05 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/20/2022 01:42:05 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/20/2022 01:42:05 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/20/2022 01:42:06 PM - UserPage - INFO: Element Found with locator: //button[@routerlink='/home/users/create'] and locatorType: xpath
+10/20/2022 01:42:06 PM - UserPage - INFO: Clicked on element with locator: //button[@routerlink='/home/users/create'] locatorType: xpath
+10/20/2022 01:42:52 PM - LoginPage - INFO: Element not found with locator: //div[@class='avatar-container'] and locatorType: xpath
+10/20/2022 01:42:52 PM - LoginPage - INFO: Cannot click on the element with locator: //div[@class='avatar-container'] locatorType: xpath
+10/20/2022 01:42:57 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(), 'Log out')] and locatorType: xpath
+10/20/2022 01:42:57 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(), 'Log out')] locatorType: xpath
+10/20/2022 01:42:57 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/20/2022 01:42:57 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/20/2022 01:42:57 PM - LoginPage - INFO: Element Found with locator: mat-input-0 and locatorType: id
+10/20/2022 01:42:57 PM - LoginPage - INFO: Sent data on element with locator: mat-input-0 locatorType: id
+10/20/2022 01:42:57 PM - LoginPage - INFO: Element Found with locator: mat-input-1 and locatorType: id
+10/20/2022 01:42:57 PM - LoginPage - INFO: Sent data on element with locator: mat-input-1 locatorType: id
+10/20/2022 01:42:57 PM - LoginPage - INFO: Element Found with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] and locatorType: xpath
+10/20/2022 01:42:57 PM - LoginPage - INFO: Clicked on element with locator: //button[@class="mat-focus-indicator login-submit mat-raised-button mat-button-base mat-primary"] locatorType: xpath
+10/20/2022 01:42:58 PM - UserPage - INFO: Element Found with locator: //button[@routerlink='/home/users/create'] and locatorType: xpath
+10/20/2022 01:42:58 PM - UserPage - INFO: Clicked on element with locator: //button[@routerlink='/home/users/create'] locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Element Found with locator: //input[@placeholder='User Id'] and locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder='User Id'] locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="First Name"] and locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="First Name"] locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="Last Name"] and locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="Last Name"] locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="Password"] and locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="Password"] locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Element Found with locator: //input[@placeholder="Email"] and locatorType: xpath
+10/20/2022 01:43:00 PM - UserPage - INFO: Sent data on element with locator: //input[@placeholder="Email"] locatorType: xpath
+10/20/2022 01:43:05 PM - UserPage - INFO: Element not found with locator: //span[@class='mat-option-text' and contains(text(), 'test')] and locatorType: xpath
+10/20/2022 01:43:05 PM - UserPage - INFO: Cannot click on the element with locator: //span[@class='mat-option-text' and contains(text(), 'test')] locatorType: xpath
+10/20/2022 01:43:05 PM - UserPage - INFO: Element Found with locator: //ns-filter-select[@label='Groups'] and locatorType: xpath
+10/20/2022 01:43:05 PM - UserPage - INFO: Clicked on element with locator: //ns-filter-select[@label='Groups'] locatorType: xpath
+10/20/2022 01:43:10 PM - UserPage - INFO: Element not found with locator: //span[@class="mat-option-text" and contains(text(), "Automation_Test_Group")] and locatorType: xpath
+10/20/2022 01:43:10 PM - UserPage - INFO: Cannot click on the element with locator: //span[@class="mat-option-text" and contains(text(), "Automation_Test_Group")] locatorType: xpath
+10/20/2022 01:43:12 PM - UserPage - INFO: Element Found with locator: //body and locatorType: xpath
+10/20/2022 01:43:12 PM - UserPage - INFO: Clicked on element with locator: //body locatorType: xpath
+10/20/2022 01:43:14 PM - UserPage - INFO: Element Found with locator: //button[normalize-space()='Create Users'] and locatorType: xpath
+10/20/2022 01:43:14 PM - UserPage - INFO: Clicked on element with locator: //button[normalize-space()='Create Users'] locatorType: xpath
+10/20/2022 01:43:16 PM - UserPage - INFO: Element Found with locator: //span[normalize-space()='Users'] and locatorType: xpath
+10/20/2022 01:43:16 PM - UserPage - INFO: Clicked on element with locator: //span[normalize-space()='Users'] locatorType: xpath
+10/20/2022 01:43:16 PM - UserPage - INFO: Element Found with locator: //button[@routerlink='/home/users/create'] and locatorType: xpath
+10/20/2022 01:43:16 PM - UserPage - INFO: Clicked on element with locator: //button[@routerlink='/home/users/create'] locatorType: xpath
