@@ -1,3 +1,4 @@
+import os
 import time
 
 import autoit
@@ -106,6 +107,9 @@ class UserPage(SeleniumDriver):
         self.enter_last_name(last_name)
         self.enter_password(password)
         self.enter_email(email)
+
+        self.customer_selection()
+
         self.click_group_dropdown()
         self.check_checkbox()
         self.click_out()
@@ -227,7 +231,20 @@ class UserPage(SeleniumDriver):
             #pyautogui.write("C:\\Users\\hjasani\\PycharmProjects\work\\Admin_Dashboard\\tests\\user_management\\users_template_final.csv")
             #pyautogui.write("C:/Users/hjasani/PycharmProjects/work/Admin_Dashboard/pages/user_management/users_template.csv", interval=0.30)
             # pyautogui.write("C:/Users/hjasani/Downloads/users_template.csv", interval=0.15)
-            pyautogui.typewrite("C:\\Users\\hjasani\\OneDrive - tdkgroup\\Desktop\\work\\work\\Admin_Dashboard\\tests\\user_management\\users_template.csv", interval=0.10)
+            # pyautogui.typewrite("C:\\Users\\hjasani\\OneDrive - tdkgroup\\Desktop\\work\\work\\Admin_Dashboard\\tests\\user_management\\users_template.csv", interval=0.10)
+            # file_name = "users_template.csv"
+            # current_dir_path = os.path.abspath(os.curdir)
+            # join_path = os.path.join(current_dir_path, file_name)
+            # path_to_go = join_path
+            # print(f"--------{path_to_go}---------")
+            # pyautogui.typewrite(path_to_go, interval=0.10)
+
+            ROOT_DIR = os.path.dirname(os.path.abspath(__file__))  # This is your Project Root
+            print(ROOT_DIR)
+            CONFIG_PATH = os.path.join(ROOT_DIR, 'users_template.csv')
+            print(CONFIG_PATH)
+            pyautogui.typewrite(CONFIG_PATH, interval=0.10)
+
             pyautogui.press('return')
             self.hold_wait()
             self.hold_wait()
