@@ -195,7 +195,17 @@ class SeleniumDriver():
 
         # return self.driver.execute_script("return arguments[0].scrollIntoView();", element)
 
+    def move_to_element(self, locator, locatorType="id"):
+        try:
+            element = self.getElement(locator, locatorType)
 
+            action = ActionChains(self.driver)
+            action.move_to_element(element).click().perform()
+            self.log.info("moved to element with locator: " + locator + " locatorType: " + locatorType)
+        except:
+            self.log.info(
+                "Cannot moved to the element with locator: " + locator + " locatorType: " + locatorType)
+            print_stack()
 
     def backspace_clear(self, locator, locatorType="id"):
         try:
