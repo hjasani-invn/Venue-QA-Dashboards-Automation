@@ -1,0 +1,5 @@
+FirstName,LastName,UserId,Password,Email,Customer,CustomerGroups
+Automation_English,English_last,EnglishId,tdkaqw,atEnglish@tdk.ca,test,Automation_Test_Group
+At_Japanese,Jpn_last,JapaneseId,test11,atjapan@tdk.com,test,Automation_Test_Group
+At_Korean,Korean_last,KoreanId,test11,AtKorean@tdk.com,test,Automation_Test_Group
+At_Chiensese,CN_last,ChineseId,test11,Atchinesen@tdk.com,test,Automation_Test_Group
