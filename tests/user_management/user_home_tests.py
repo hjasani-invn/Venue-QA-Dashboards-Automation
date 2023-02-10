@@ -28,4 +28,5 @@ class UserHomeTests(unittest.TestCase):
 # this test case we are executing first of every iteration to make environment clean
     @pytest.mark.order(15)
     def test_3_2_7_delete_user(self):
-        self.userhomepage.delete_user()
+        # self.userhomepage.delete_user()
+        self.userhomepage.del_user_new()

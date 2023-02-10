@@ -84,15 +84,23 @@ class UserHomePage(SeleniumDriver):
         self.elementClick(self._pop_up_choose_delete_user, locatorType="xpath")
 
     _number_users = "//tbody[@role='rowgroup']//tr"
+    _page_size_click = "//div[@id='mat-select-value-1']"
+    _page_size_set = "//span[@class='mat-option-text'][normalize-space()='50']"
 
     def delete_user(self):
+        self.move_to_element(self._page_size_set, locatorType="xpath")
+        self.elementClick(self._page_size_set, locatorType="xpath")
+        self.hold_wait()
+        self.move_to_element(self._groups_field, locatorType="xpath")
+        self.hold_wait()
+
         self.filter_grp("Automation_Test_Group")
         self.hold_wait()
         counte = []
         counte = self.getElements(self._number_users, locatorType="xpath")
-        # for cou in counte:
-        #     print(cou)
-        #     print(len(counte))
+        for cou in counte:
+            print(cou)
+            print(f"Number of Users: {len(counte)}")
 
         i = 0
         while i < len(counte):
@@ -103,3 +111,48 @@ class UserHomePage(SeleniumDriver):
             self.choose_delete_btn()
             self.hold_wait()
             i += 1
+
+    _find_range = "//div[@class='paginator-range-label']"
+    def del_user_new(self):
+        self.filter_grp("Automation_Test_Group")
+
+        self.move_to_element(self._find_range, locatorType="xpath")
+        number_of_users_xpath = self.getElement(self._find_range, locatorType="xpath")
+        number_of_users_text = number_of_users_xpath.text
+        if number_of_users_text == "0 of 0":
+            str_number_of_users = number_of_users_text.split(" ")[2]
+            int_number_of_users = int(str_number_of_users)
+            print(f"----number_of_users: {number_of_users_text}")
+            print(f"----str_number_of_users: {str_number_of_users}")
+            print(f"----int_number_of_users: {int_number_of_users}")
+            print(type(int_number_of_users))
+        else:
+            str_number_of_users = number_of_users_text.split(" ")[4]
+            int_number_of_users = int(str_number_of_users)
+            print(f"----number_of_users: {number_of_users_text}")
+            print(f"----str_number_of_users: {str_number_of_users}")
+            print(f"----int_number_of_users: {int_number_of_users}")
+            print(type(int_number_of_users))
+
+
+        # while int_number_of_users > 0:
+        #     self.move_to_element(self._groups_field, locatorType="xpath")
+        #     self.backspace_clear(self._groups_field, locatorType="xpath")
+        #     self.filter_grp("Automation_Test_Group")
+        #     self.hold_wait()
+        #     self.click_bin_icon()
+        #     self.choose_delete_btn()
+        #     self.hold_wait()
+        #     int_number_of_users -= 1
+
+        if int_number_of_users > 0:
+            for i in range(int_number_of_users+1):
+                self.move_to_element(self._groups_field, locatorType="xpath")
+                self.backspace_clear(self._groups_field, locatorType="xpath")
+                self.filter_grp("Automation_Test_Group")
+                self.hold_wait()
+                self.click_bin_icon()
+                self.choose_delete_btn()
+                self.hold_wait()
+        else:
+            print("No existing users are available")

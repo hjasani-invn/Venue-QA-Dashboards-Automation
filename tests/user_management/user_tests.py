@@ -22,7 +22,8 @@ class UserTests(unittest.TestCase):
     @pytest.mark.order(4)
     def test_3_2_7_delete_users_if_available(self):
         self.loginpage.login("AutomationTestUser001", "TP1M4St3R_p4ssw0rd")
-        self.userhomepage.delete_user()
+        # self.userhomepage.delete_user()
+        self.userhomepage.del_user_new()
 
     @pytest.mark.order(5)
     def test_3_2_1_click_new_user(self):
