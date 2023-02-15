@@ -56,7 +56,7 @@ class LoginPage(SeleniumDriver):
         self.clickLoginButton()
         self.hold_wait()
         self.hold_wait()
-        self.screen_shot()
+        # self.screen_shot()
 
     def sign_out(self):
         self.hold_wait()

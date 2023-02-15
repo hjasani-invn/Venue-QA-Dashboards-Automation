@@ -98,6 +98,39 @@ class ContactAnalyticsPage(SeleniumDriver):
         self.hold_wait()
 
 
+    # _query_id_xpath = "//tbody/tr//td[1]"
+    #
+    #
+    # def get_list_before_search(self):
+    #     list_1 = []
+    #     queries = self.getElements(self._query_id_xpath, locatorType="xpath")
+    #     for query in queries:
+    #         print(query.text)
+    #         list_1.append(query.text)
+    #
+    # def get_list_after_search(self):
+    #     list_2 = []
+    #     queries = self.getElements(self._query_id_xpath, locatorType="xpath")
+    #     for query in queries:
+    #         print(query.text)
+    #         list_2.append(query.text)
+
+    # list_1 = get_list_before_search()
+    # list_2 = get_list_after_search()
+    #
+    # global_list_1 = []
+    # global_list_2 = []
+    # def make_global(self):
+    #     global global_list_1
+    #     global global_list_2
+    # make_global()
+    #
+    # def print_list(self):
+    #     print(global_list_1)
+    #     print(global_list_2)
+
+
+
     _min_duration = "//input[@id='mat-input-8']"
 
     _update_query = "//input[@maxlength='256']"
@@ -115,3 +148,21 @@ class ContactAnalyticsPage(SeleniumDriver):
         self.elementClick(self._click_search_btn, locatorType="xpath")
         self.hold_wait()
         self.hold_wait()
+
+
+    _pop_msg = "//span[contains(text(),'No Contact Data found for the given Search conditi')]"
+    _query_field = "//tbody/tr[1]//td[2]"
+    def is_popup(self,query_name):
+        try: # query not generated
+            visible = self.getElement(self._pop_msg, locatorType="xpath")
+            self.driver.execute_script('arguments[0].dispatchEvent(new Event("click"))', visible)
+            print(visible.text)
+        except: # Query Generated
+            print("Query Generated")
+            self.hold_wait()
+            self.hold_wait()
+            # self.update_query_name(query="overwrite")
+            self.sendKeys(query_name, self._update_query, locatorType="xpath")
+            self.hold_wait()
+            self.click_out()
+            self.hold_wait()
