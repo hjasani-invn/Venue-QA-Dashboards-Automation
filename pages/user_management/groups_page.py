@@ -122,6 +122,7 @@ class GroupsPage(SeleniumDriver):
 
     def download_grp_csv(self):
         self.click_left_panel_groups()
+        self.hold_wait()
         self.elementClick(self._download_grp_csv_file, locatorType="xpath")
         self.hold_wait()
 
